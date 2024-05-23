@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d16870ffb056c14195c28381f8b4c80, type: 3}
+  m_Name: SecondQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: SecondQuest
+  DisplayName: "\uBBF8\uB178\uD0C0\uC6B0\uB974\uC2A4 \uCC98\uCE58!"
+  levelRequirement: 3
+  questPrerequistes:
+  - {fileID: 11400000, guid: 4731ad3d9b610de41a02014414286480, type: 2}
+  questStepPrefabs:
+  - {fileID: 4396439777029796227, guid: 7225e9aa50586ce439bacd8fbb97db27, type: 3}
+  goldReward: 600
+  expReward: 200

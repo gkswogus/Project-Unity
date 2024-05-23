@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d16870ffb056c14195c28381f8b4c80, type: 3}
+  m_Name: FirstQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: FirstQuest
+  DisplayName: "\uC545\uB9C8 \uBAAC\uC2A4\uD130 \uCC98\uCE58!!!!"
+  levelRequirement: 2
+  questPrerequistes: []
+  questStepPrefabs:
+  - {fileID: 21648883034410672, guid: 932973008e39f8b4bbba59e05f2efd19, type: 3}
+  goldReward: 300
+  expReward: 115
